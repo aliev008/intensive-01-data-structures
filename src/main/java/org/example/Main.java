@@ -11,9 +11,9 @@ public class Main {
         map.put(4, "Four");
         map.put(5, "Five");
 
-        System.out.println(map.get(1)); // Вывод: One
-        System.out.println(map.get(3)); // Вывод: Three
-        System.out.println(map.get(10)); // Вывод: null
-        System.out.println("Size: " + map.size()); // Вывод: Size: 5
+        System.out.println(map.get(1));
+        System.out.println(map.get(3));
+        System.out.println(map.get(10));
+        System.out.println("Size: " + map.size());
     }
 }
